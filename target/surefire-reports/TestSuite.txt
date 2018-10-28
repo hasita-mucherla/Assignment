@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 64.289 s <<< FAILURE! - in TestSuite
+multiplyTwoNumbers(com.qa.jive.JiveAssignment.CalculatorPageTest)  Time elapsed: 5.65 s  <<< FAILURE!
+java.lang.AssertionError: expected [19781] but found [15131]
+	at com.qa.jive.JiveAssignment.CalculatorPageTest.multiplyTwoNumbers(CalculatorPageTest.java:48)
+
+divideTwoNumbers2(com.qa.jive.JiveAssignment.CalculatorPageTest)  Time elapsed: 3.424 s  <<< FAILURE!
+java.lang.AssertionError: expected [1] but found [199]
+	at com.qa.jive.JiveAssignment.CalculatorPageTest.divideTwoNumbers2(CalculatorPageTest.java:62)
+
