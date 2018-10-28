@@ -1,5 +1,8 @@
 ###Instructions to run the tests
 
-Please go to src/test/java/com/qa/jive/JiveAssignment 
-
-And run CalculatorPageTest.Java as "TestNG test"
+1. Clone the project into your file system.
+2. Go to cloned directory
+3. Run the below command
+   mvn test
+ NOTE:
+ Java and Maven should have been installed and configured in your system.
